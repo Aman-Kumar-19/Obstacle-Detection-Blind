@@ -4,10 +4,9 @@
 This project helps visually impaired individuals navigate safely by detecting obstacles using **ultrasonic sensors** and providing **buzzer alerts**.
 
 ## 📸 Output Images
-### 1. System in Action  
+### 1. Serial Monitor Showing Distance  
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/5bd472f2-0bc7-4038-8f9d-8e7e32da3441" />
 
-
-### 2. Serial Monitor Showing Distance  
 
 
 ## 🛠️ Hardware Components Used
